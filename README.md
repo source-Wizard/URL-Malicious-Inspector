@@ -1,6 +1,8 @@
 # URL-Malicious-Inspector
 A URL Malicious Inspector with VirusTotal API scans URLs to detect phishing, malware, or malicious activity. It sends URLs to VirusTotal, retrieves threat reports, and classifies risks in real time.
 
+make sure this file open in IDLE Python
+
 Key Features:
 URL Scanning: Submits URLs for analysis, files , and folders.
 
